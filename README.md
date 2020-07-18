@@ -49,7 +49,7 @@ O **Artesanal Ayres Pedidos** é um sistema de pedidos online da Hamburgueria lu
 
 - Clone este repositório com
 ```json
-git clone https://github.com/pierguinzani/sistemas-distribuidos-2020-3/
+git clone https://github.com/pierguinzani/projeto_final_sistemas_distribuidos
 ```
 - entre na pasta do projeto final
 ```json
